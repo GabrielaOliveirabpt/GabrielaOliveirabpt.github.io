@@ -1,7 +1,18 @@
 # Illustrator-portfolio
 
-Portfolio project, using Bootstrap and Css
+Portfolio project, using HTML, Bootstrap and Css
 
-you can access the deployed version here:
-gabrielaoliveirabpt.github.io
+![alt text](images/webIllu_responsive.png)
+
+## Deployment
+
+- The website was deployed on a the Github Pages website.
+The live link can be found here - https://gabrielaoliveirabpt.github.io
+
+## Credits
+
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Am I responsive for providing the responsive website [Am I Responsive](http://ami.responsivedesign.is/)
+
+
 
