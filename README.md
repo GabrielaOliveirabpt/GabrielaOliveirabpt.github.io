@@ -12,7 +12,7 @@ The live link can be found here - https://gabrielaoliveirabpt.github.io
 ## Credits
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Am I responsive for providing the responsive website [Am I Responsive](http://ami.responsivedesign.is/)
+- The responsive devices image was taken from the website [Am I Responsive](http://ami.responsivedesign.is/)
 
 
 
